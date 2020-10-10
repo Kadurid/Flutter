@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-Widget criaTextField(
+Widget TextField(
     String label,
     TextEditingController controle,
     TextInputType textInputType,
