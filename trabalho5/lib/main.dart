@@ -12,10 +12,10 @@ class CursoApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       theme: ThemeData(
-        primaryColor: Colors.orange[800],
-        accentColor: Colors.orange[800],
+        primaryColor: Colors.cyan[800],
+        accentColor: Colors.cyan[800],
         buttonTheme: ButtonThemeData(
-          buttonColor: Colors.orange[800],
+          buttonColor: Colors.blue[800],
           textTheme: ButtonTextTheme.primary,
         ),
       ),
